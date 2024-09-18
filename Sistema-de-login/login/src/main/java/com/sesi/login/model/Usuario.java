@@ -35,9 +35,7 @@ public class Usuario {
 	private Set<Papel> papeis = new HashSet<>();
 	
 	
-	
-	
-	public Usuario() {
+		public Usuario() {
 		super();
 		this.idUsuario = idUsuario;
 		this.nomeUsuario = nomeUsuario;
